@@ -1,0 +1,8 @@
+Ctrl-f
+Ctrl-b
+Ctrl-p
+Ctrl-n
+Ctrl-a
+Ctrl-e
+
+
