@@ -1,8 +1,8 @@
-Ctrl-f
-Ctrl-b
-Ctrl-p
-Ctrl-n
-Ctrl-a
-Ctrl-e
+Ctrl-f 向前(forward)
+Ctrl-b 向后(backward)
+Ctrl-p 向上(previous line)
+Ctrl-n 向下(next line)
+Ctrl-a 行首
+Ctrl-e 行尾
 
 
